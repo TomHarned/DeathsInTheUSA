@@ -1,0 +1,181 @@
+"Year","Gender","Race","Deaths","Population"
+1999,"Female","American Indian or Alaska Native",54,1151278
+1999,"Female","Asian or Pacific Islander",188,5649503
+1999,"Female","Black or African American",295,18236499
+1999,"Female","Hispanic or Latino",265,16501431
+1999,"Female","White",4939,100698584
+1999,"Male","American Indian or Alaska Native",224,1117398
+1999,"Male","Asian or Pacific Islander",459,5307840
+1999,"Male","Black or African American",1634,16485737
+1999,"Male","Hispanic or Latino",1430,17436364
+1999,"Male","White",19711,96455534
+2000,"Female","American Indian or Alaska Native",58,1188767
+2000,"Female","Asian or Pacific Islander",160,5842544
+2000,"Female","Black or African American",324,18419074
+2000,"Female","Hispanic or Latino",262,17144023
+2000,"Female","White",4928,100773935
+2000,"Male","American Indian or Alaska Native",228,1155275
+2000,"Male","Asian or Pacific Islander",445,5513009
+2000,"Male","Black or African American",1619,16672735
+2000,"Male","Hispanic or Latino",1525,18161795
+2000,"Male","White",19801,96550749
+2001,"Female","American Indian or Alaska Native",60,1197605
+2001,"Female","Asian or Pacific Islander",175,6176359
+2001,"Female","Black or African American",327,18692119
+2001,"Female","Hispanic or Latino",274,18058983
+2001,"Female","White",5114,100952397
+2001,"Male","American Indian or Alaska Native",246,1163016
+2001,"Male","Asian or Pacific Islander",452,5806819
+2001,"Male","Black or African American",1604,16946270
+2001,"Male","Hispanic or Latino",1576,19085113
+2001,"Male","White",20794,96890274
+2002,"Female","American Indian or Alaska Native",61,1209695
+2002,"Female","Asian or Pacific Islander",191,6440155
+2002,"Female","Black or African American",302,18902852
+2002,"Female","Hispanic or Latino",303,18799575
+2002,"Female","White",5389,101042357
+2002,"Male","American Indian or Alaska Native",250,1173608
+2002,"Male","Asian or Pacific Islander",458,6032229
+2002,"Male","Black or African American",1613,17147052
+2002,"Male","Hispanic or Latino",1651,19818045
+2002,"Male","White",21437,97059625
+2003,"Female","American Indian or Alaska Native",56,1221366
+2003,"Female","Asian or Pacific Islander",207,6695437
+2003,"Female","Black or African American",354,19101453
+2003,"Female","Hispanic or Latino",296,19531088
+2003,"Female","White",5368,101129692
+2003,"Male","American Indian or Alaska Native",260,1183110
+2003,"Male","Asian or Pacific Islander",498,6246900
+2003,"Male","Black or African American",1577,17320752
+2003,"Male","Hispanic or Latino",1711,20518341
+2003,"Male","White",21157,97159794
+2004,"Female","American Indian or Alaska Native",95,1233626
+2004,"Female","Asian or Pacific Islander",240,6945549
+2004,"Female","Black or African American",359,19311650
+2004,"Female","Hispanic or Latino",367,20265561
+2004,"Female","White",5812,101220900
+2004,"Male","American Indian or Alaska Native",294,1194873
+2004,"Male","Asian or Pacific Islander",516,6460981
+2004,"Male","Black or African American",1625,17537341
+2004,"Male","Hispanic or Latino",1840,21235814
+2004,"Male","White",21291,97399003
+2005,"Female","American Indian or Alaska Native",76,1246875
+2005,"Female","Asian or Pacific Islander",227,7207666
+2005,"Female","Black or African American",365,19524942
+2005,"Female","Hispanic or Latino",347,21035554
+2005,"Female","White",5715,101304484
+2005,"Male","American Indian or Alaska Native",297,1206095
+2005,"Male","Asian or Pacific Islander",485,6680629
+2005,"Male","Black or African American",1602,17745794
+2005,"Male","Hispanic or Latino",1841,21988060
+2005,"Male","White",21682,97576500
+2006,"Female","American Indian or Alaska Native",85,1259856
+2006,"Female","Asian or Pacific Islander",247,7472883
+2006,"Female","Black or African American",281,19749975
+2006,"Female","Hispanic or Latino",364,21839437
+2006,"Female","White",6015,101410496
+2006,"Male","American Indian or Alaska Native",294,1217864
+2006,"Male","Asian or Pacific Islander",553,6903113
+2006,"Male","Black or African American",1640,17969520
+2006,"Male","Hispanic or Latino",1813,22766868
+2006,"Male","White",22008,97789900
+2007,"Female","American Indian or Alaska Native",80,1272881
+2007,"Female","Asian or Pacific Islander",268,7733773
+2007,"Female","Black or African American",345,19986736
+2007,"Female","Hispanic or Latino",387,22652813
+2007,"Female","White",6249,101520150
+2007,"Male","American Indian or Alaska Native",292,1229652
+2007,"Male","Asian or Pacific Islander",614,7120928
+2007,"Male","Black or African American",1580,18197963
+2007,"Male","Hispanic or Latino",2078,23544040
+2007,"Male","White",22705,97972271
+2008,"Female","American Indian or Alaska Native",96,1286595
+2008,"Female","Asian or Pacific Islander",288,7995937
+2008,"Female","Black or African American",344,20223930
+2008,"Female","Hispanic or Latino",390,23470879
+2008,"Female","White",6467,101626674
+2008,"Male","American Indian or Alaska Native",294,1241875
+2008,"Male","Asian or Pacific Islander",567,7340244
+2008,"Male","Black or African American",1731,18427803
+2008,"Male","Hispanic or Latino",1955,24322906
+2008,"Male","White",23903,98157123
+2009,"Female","American Indian or Alaska Native",110,1299202
+2009,"Female","Asian or Pacific Islander",299,8245449
+2009,"Female","Black or African American",389,20455967
+2009,"Female","Hispanic or Latino",438,24263445
+2009,"Female","White",6584,101700012
+2009,"Male","American Indian or Alaska Native",298,1252949
+2009,"Male","Asian or Pacific Islander",642,7548546
+2009,"Male","Black or African American",1662,18648848
+2009,"Male","Hispanic or Latino",2135,25064044
+2009,"Male","White",24352,98293067
+2010,"Female","American Indian or Alaska Native",118,1308430
+2010,"Female","Asian or Pacific Islander",300,8431185
+2010,"Female","Black or African American",382,20624873
+2010,"Female","Hispanic or Latino",493,24858794
+2010,"Female","White",6794,101740930
+2010,"Male","American Indian or Alaska Native",328,1261137
+2010,"Male","Asian or Pacific Islander",726,7702687
+2010,"Male","Black or African American",1722,18812260
+2010,"Male","Hispanic or Latino",2168,25618800
+2010,"Male","White",25333,98386442
+2011,"Female","American Indian or Alaska Native",103,1323181
+2011,"Female","Asian or Pacific Islander",315,8662304
+2011,"Female","Black or African American",406,20870136
+2011,"Female","Hispanic or Latino",496,25602066
+2011,"Female","White",7195,101843411
+2011,"Male","American Indian or Alaska Native",323,1275611
+2011,"Male","Asian or Pacific Islander",709,7917405
+2011,"Male","Black or African American",1796,19074760
+2011,"Male","Hispanic or Latino",2224,26443211
+2011,"Male","White",25951,98579832
+2012,"Female","American Indian or Alaska Native",92,1334724
+2012,"Female","Asian or Pacific Islander",339,8975965
+2012,"Female","Black or African American",444,21087405
+2012,"Female","Hispanic or Latino",545,26098137
+2012,"Female","White",7400,101925742
+2012,"Male","American Indian or Alaska Native",366,1285777
+2012,"Male","Asian or Pacific Islander",785,8199631
+2012,"Male","Black or African American",1871,19303983
+2012,"Male","Hispanic or Latino",2292,26929571
+2012,"Male","White",26466,98773105
+2013,"Female","American Indian or Alaska Native",108,1345729
+2013,"Female","Asian or Pacific Islander",294,9247628
+2013,"Female","Black or African American",447,21291814
+2013,"Female","Hispanic or Latino",586,26610478
+2013,"Female","White",7659,101981588
+2013,"Male","American Indian or Alaska Native",377,1297271
+2013,"Male","Asian or Pacific Islander",800,8446242
+2013,"Male","Black or African American",1860,19510272
+2013,"Male","Hispanic or Latino",2279,27460892
+2013,"Male","White",26739,98936925
+2014,"Female","American Indian or Alaska Native",118,1358332
+2014,"Female","Asian or Pacific Islander",350,9635601
+2014,"Female","Black or African American",461,21550453
+2014,"Female","Hispanic or Latino",662,27369609
+2014,"Female","White",8073,102006574
+2014,"Male","American Indian or Alaska Native",348,1308965
+2014,"Male","Asian or Pacific Islander",807,8801307
+2014,"Male","Black or African American",1897,19766066
+2014,"Male","Hispanic or Latino",2584,28017930
+2014,"Male","White",27526,99042219
+2015,"Female","American Indian or Alaska Native",141,1369293
+2015,"Female","Asian or Pacific Islander",418,9989346
+2015,"Female","Black or African American",467,21781596
+2015,"Female","Hispanic or Latino",716,27989392
+2015,"Female","White",8457,102059896
+2015,"Male","American Indian or Alaska Native",396,1320413
+2015,"Male","Asian or Pacific Islander",859,9127211
+2015,"Male","Black or African American",1972,19995887
+2015,"Male","Hispanic or Latino",2587,28603401
+2015,"Male","White",28180,99182385
+2016,"Female","American Indian or Alaska Native",141,1380765
+2016,"Female","Asian or Pacific Islander",387,10171988
+2016,"Female","Black or African American",542,21960417
+2016,"Female","Hispanic or Latino",724,28454666
+2016,"Female","White",8444,102080754
+2016,"Male","American Indian or Alaska Native",443,1330302
+2016,"Male","Asian or Pacific Islander",980,9307742
+2016,"Male","Black or African American",2149,20181252
+2016,"Male","Hispanic or Latino",2944,29015621
+2016,"Male","White",28211,99244006
